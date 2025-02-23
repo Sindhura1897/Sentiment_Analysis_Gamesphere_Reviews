@@ -5,7 +5,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-✔-blue)
 
 ## Overview
-This project performs sentiment analysis on text data to classify opinions as **positive, negative, or neutral**.
+This project performs sentiment analysis on text data to classify opinions as **positive, or negative**.
 
 ## Tools Used
 - **Python**
@@ -31,7 +31,7 @@ This project performs sentiment analysis on text data to classify opinions as **
 
 2. **Exploratory Data Analysis (EDA):**  
    - Visualized data distributions and correlations between features.
-   - Generated wordclouds to visualize text data 
+   - Generated wordclouds to visualize user review text data 
 
 3. **Model Training:**
    - Used **TF-IDF** for traditional ML models.
